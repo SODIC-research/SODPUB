@@ -445,12 +445,14 @@ CC-BY 4.0 for documentation and examples
 
 SODIC Research Group, TU Chemnitz
 
-[Website](https:/tu-chemnitz.de/informatik/dm/team/fh.php) — Contact: `florian.hahn@informatik.tu-chemnitz.de`
+[Website](https://www.tu-chemnitz.de/informatik/dm/team/fh.php.en) — Contact: `florian.hahn@informatik.tu-chemnitz.de`
 
 # Currently in Development:
 - Open Data portal connector ecosystem
 - CKAN plugin integration
 - automatic ontology alignment
+- Reproducable Scoring
+- Docker deployment
 
   
 # Future Research Directions
