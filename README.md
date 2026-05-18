@@ -447,13 +447,16 @@ SODIC Research Group, TU Chemnitz
 
 [Website](https:/tu-chemnitz.de/informatik/dm/team/fh.php) — Contact: `florian.hahn@informatik.tu-chemnitz.de`
 
-# Future Research Directions
+# Currently in Development:
+- Open Data portal connector ecosystem
+- CKAN plugin integration
 - automatic ontology alignment
+
+  
+# Future Research Directions
 - LLM-assisted metadata recommendation
 - multilingual metadata enrichment
 - process mining integration
-- Open Data portal connector ecosystem
-- CKAN plugin integration
 - FAIR maturity scoring
 - synthetic data quality comparison
 - SPARQL federation support
