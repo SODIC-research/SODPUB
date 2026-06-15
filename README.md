@@ -434,11 +434,16 @@ sodpub/
   author={Florian Hahn},  
   year={2026},  
   url={https://github.com/SODIC-research/SODPUB}  
-}  
+}
+
 ```
 # License
-Released under the MIT License. See `LICENSE` for details.
-CC-BY 4.0 for documentation and examples
+
+SODPUB is licensed under the Apache License 2.0.
+
+The SODPUB name, logo, visual identity and project branding are not licensed under the Apache License 2.0. They may not be used to imply endorsement, official affiliation or commercial authorization without prior written permission.
+
+Documentation and educational material may be licensed separately where indicated.
 
 ## 👩‍🔬 Maintainer
 
